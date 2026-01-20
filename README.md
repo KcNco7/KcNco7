@@ -1,6 +1,8 @@
 ### 走一步，再走一步！
 
-<div align="center"> <img src="https://metrics.lecoq.io/kcnco7?template=classic&config.timezone=Asia%2FShanghai"> </div>
+<div align="center"> <img src="https://metrics.lecoq.io/KcNco7?template=classic&config.timezone=Asia%2FShanghai"> </div>
+
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=KcNco7&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 
 <!--
 **KcNco7/KcNco7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
