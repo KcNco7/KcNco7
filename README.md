@@ -1,4 +1,6 @@
-### Hi there 👋
+### 走一步，再走一步！
+
+<div align="center"> <img src="https://metrics.lecoq.io/kcnco7?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
 <!--
 **KcNco7/KcNco7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
